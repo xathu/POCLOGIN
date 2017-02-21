@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>E:\KZT\xamarin\Code\Joe Rock\POCLOGIN\POCLOGIN\obj\x86\Debug\__library_projects__\Bolts.AppLinks\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\KZT\xamarin\Code\Joe Rock\POCLOGIN\POCLOGIN\obj\x86\Debug\__library_projects__\ExoPlayer\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\KZT\xamarin\Code\Joe Rock\POCLOGIN\POCLOGIN\obj\x86\Debug\__library_projects__\Xamarin.Facebook.AudienceNetwork\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\KZT\xamarin\Code\Joe Rock\POCLOGIN\POCLOGIN\obj\x86\Debug\__library_projects__\Xamarin.Facebook\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\x86\Debug\__library_projects__\Bolts.AppLinks\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\x86\Debug\__library_projects__\ExoPlayer\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\x86\Debug\__library_projects__\Xamarin.Facebook.AudienceNetwork\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\x86\Debug\__library_projects__\Xamarin.Facebook\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>E:\KZT\xamarin\Code\Joe Rock\POCLOGIN\POCLOGIN\obj\x86\Debug\__library_projects__\Bolts.AppLinks.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\KZT\xamarin\Code\Joe Rock\POCLOGIN\POCLOGIN\obj\x86\Debug\__library_projects__\ExoPlayer.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\KZT\xamarin\Code\Joe Rock\POCLOGIN\POCLOGIN\obj\x86\Debug\__library_projects__\Xamarin.Facebook.AudienceNetwork.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\KZT\xamarin\Code\Joe Rock\POCLOGIN\POCLOGIN\obj\x86\Debug\__library_projects__\Xamarin.Facebook.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
