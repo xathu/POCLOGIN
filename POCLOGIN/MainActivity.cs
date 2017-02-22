@@ -43,6 +43,7 @@ namespace POCLOGIN
        
         protected override void OnCreate(Bundle bundle)
         {
+            
             base.OnCreate(bundle);
             FacebookSdk.SdkInitialize(this.ApplicationContext);
             // Set our view from the "main" layout resource
@@ -82,10 +83,27 @@ namespace POCLOGIN
 
             ShareLinkContent content = new ShareLinkContent.Builder().Build();
             mBtnShared.ShareContent = content;
+            /*
+            #region getHash
+            base.OnCreate(bundle);
 
+            // Set our view from the "main" layout resource
+          //  SetContentView(Resource.Layout.Main);
+
+            
+         PackageInfo info = this.PackageManager.GetPackageInfo("POCLOGIN.POCLOGIN", PackageInfoFlags.Signatures);
+            foreach (Android.Content.PM.Signature singnature in info.Signatures)
+            {
+                MessageDigest md = MessageDigest.GetInstance("SHA");
+                md.Update(singnature.ToByteArray());
+                string keyhash = Convert.ToBase64String(md.Digest());
+                Console.WriteLine("KeyHash", keyhash);
+            }
+            #endregion
+            */
 
         }
-     
+
         public void OnCompleted(JSONObject json, GraphResponse response)
         {
             string data = json.ToString();
